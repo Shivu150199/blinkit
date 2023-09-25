@@ -172,12 +172,13 @@ z-index:10;
     color:var(--gray-500);
     cursor:pointer;
   
+  
 
 }
 .login-btn:hover{
-background:linear-gradient(to bottom, #5cc456, #3a8f35);
-  transform:translateY(10%);
-  box-shadow:var(--shadow-lg);
+background:linear-gradient(to bottom, #5cc456, #3a8f35)!important;
+  transform:translateY(10%)!important;
+  box-shadow:var(--shadow-lg)!important;
   
 }
 .cart-btn{
