@@ -166,14 +166,20 @@ z-index:10;
 
 .login-btn{
     border:none;
-    background:none;
+    background:green;
     font-size:1.2rem;
     font-weight:normal;
     color:var(--gray-500);
     cursor:pointer;
+  
 
 }
-
+.login-btn:hover{
+background:linear-gradient(to bottom, #5cc456, #3a8f35);
+  transform:translateY(10%);
+  box-shadow:var(--shadow-lg);
+  
+}
 .cart-btn{
     
     border:transparent;
