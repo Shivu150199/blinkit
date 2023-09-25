@@ -171,6 +171,8 @@ z-index:10;
     font-weight:normal;
     color:var(--gray-500);
     cursor:pointer;
+  padding:.8rem 1rem;
+  color:white;
   
   
 
